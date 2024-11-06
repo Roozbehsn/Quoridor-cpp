@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Quoridor\\Quoridor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8358722C-34D3-4CD4-93CA-C3761721E864}|Quoridor\\Quoridor.vcxproj|D:\\Projects\\Quoridor\\Quoridor\\Quoridor\\Quoridor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8358722C-34D3-4CD4-93CA-C3761721E864}|Quoridor\\Quoridor.vcxproj|solutionrelative:Quoridor\\Quoridor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quoridor.cpp",
+              "DocumentMoniker": "D:\\Projects\\Quoridor\\Quoridor\\Quoridor\\Quoridor.cpp",
+              "RelativeDocumentMoniker": "Quoridor\\Quoridor.cpp",
+              "ToolTip": "D:\\Projects\\Quoridor\\Quoridor\\Quoridor\\Quoridor.cpp",
+              "RelativeToolTip": "Quoridor\\Quoridor.cpp",
+              "ViewState": "AgIAANIEAAAAAAAAAAAYwKEEAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T08:37:02.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
